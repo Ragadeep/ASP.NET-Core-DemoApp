@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning\\DemoLearning.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\DemoLearning.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\DemoLearning.Core.csproj",
+        "projectName": "DemoLearning.Core",
+        "projectPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\DemoLearning.Core.csproj",
+        "packagesPath": "C:\\Users\\raga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\DemoLearning.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\DemoLearning.Data.csproj",
+        "projectName": "DemoLearning.Data",
+        "projectPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\DemoLearning.Data.csproj",
+        "packagesPath": "C:\\Users\\raga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\DemoLearning.Core.csproj": {
+                "projectPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Core\\DemoLearning.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning\\DemoLearning.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning\\DemoLearning.csproj",
+        "projectName": "DemoLearning",
+        "projectPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning\\DemoLearning.csproj",
+        "packagesPath": "C:\\Users\\raga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\DemoLearning.Data.csproj": {
+                "projectPath": "C:\\Users\\raga\\Desktop\\RagaApps\\DemoLearning\\DemoLearning.Data\\DemoLearning.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

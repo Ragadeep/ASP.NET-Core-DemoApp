@@ -1,0 +1,9 @@
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\bin\Debug\netcoreapp2.1\DemoLearning.Core.deps.json
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\bin\Debug\netcoreapp2.1\DemoLearning.Core.dll
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\bin\Debug\netcoreapp2.1\DemoLearning.Core.pdb
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.csprojAssemblyReference.cache
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.csproj.CoreCompileInputs.cache
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.AssemblyInfoInputs.cache
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.AssemblyInfo.cs
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.dll
+C:\Users\raga\Desktop\RagaApps\DemoLearning\DemoLearning.Core\obj\Debug\netcoreapp2.1\DemoLearning.Core.pdb
